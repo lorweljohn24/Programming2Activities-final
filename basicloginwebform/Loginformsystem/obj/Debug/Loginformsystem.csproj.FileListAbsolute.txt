@@ -1,0 +1,10 @@
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\bin\Debug\Loginformsystem.exe.config
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\bin\Debug\Loginformsystem.exe
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\bin\Debug\Loginformsystem.pdb
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\obj\Debug\Loginformsystem.csproj.AssemblyReference.cache
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\obj\Debug\Loginformsystem.Properties.Resources.resources
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\obj\Debug\Loginformsystem.csproj.GenerateResource.cache
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\obj\Debug\Loginformsystem.csproj.CoreCompileInputs.cache
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\obj\Debug\Loginformsystem.exe
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\obj\Debug\Loginformsystem.pdb
+C:\Users\RAMOS FAMILY\source\repos\loginsystem\Loginformsystem\obj\Debug\Loginformsystem.login.resources
